@@ -3975,6 +3975,8 @@ input[type=button].btn-block {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
+  text-transform: none;
+  font-family: 'Pacifico', cursive;
 }
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
@@ -10238,4 +10240,5 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+  font-family: 'Pacifico', cursive;
 }
